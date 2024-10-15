@@ -17,6 +17,13 @@ long run.
 - C++ Compiler
 - CMake
 
+# Installation
+- Clone this project and cd into its directory
+- `mkdir build` and `cd build`
+- `cmake ..`
+- `make`
+- `./BlackJack-Sim`
+
 ## Features 
 - Able to simulate any number of decks.
 - Able to change rules of the table.
@@ -32,4 +39,4 @@ long run.
 ---
 
 Feel free to use this however you like. 
-- [@sudfish](https://github.com/sudfish)
+- [@kodesun](https://github.com/kodesun)
